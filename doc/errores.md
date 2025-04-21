@@ -1,3 +1,3 @@
-# Ejemplo de prueva
-Este documento contiene errores orrograficos que vamos a detectar.
-Prueva vuena de PUK
+# Ejemplo de prueba
+Este documento contiene errores ortograficos que vamos a detectar.
+Prueba buena de PUK
