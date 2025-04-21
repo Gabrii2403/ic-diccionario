@@ -1,3 +1,3 @@
 # Ejemplo de prueba
-Este documento contiene errores ortograficos que vamos a detectar.
+Este documento contiene errores ortográficos que vamos a detectar.
 Prueba buena
